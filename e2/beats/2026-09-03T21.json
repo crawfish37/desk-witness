@@ -1,0 +1,12 @@
+{
+ "hour": "2026-09-03T21",
+ "hb_sha256": "7af21fbd5dcfde8d4f82cd592bdad00d70c49c7933dfa13983665d9d5e263d57",
+ "beats": 521,
+ "chain_head": "6d2e58ef1e8f6f44b960e6abb4fd0daf3cf3d6c70e05f2c96b26dea43254d6d5",
+ "ts": 1788472800,
+ "backfilled_at": 1788521533.326114,
+ "commit": "46c370f",
+ "env_digest": "285f9f96cb45b57c",
+ "behavior_digest": "5e80f9d880b820c7",
+ "runtime_digest": "11c295714e6ad77d"
+}
