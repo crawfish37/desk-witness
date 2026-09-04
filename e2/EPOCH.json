@@ -1,0 +1,6 @@
+{
+ "epoch": 2,
+ "started_ts": 1788502860.98133,
+ "reason": "epoch-1 heads/ namespace polluted by the project's own test suite (2026-09-04, journaled); protected history retained, never rewritten \u2014 epoch 2 writes only under e2/",
+ "claim": "post-push immutability + identity-bound cadence + write-once exact-set history; NOT pre-push content honesty (same-UID residual, bounded by DB re-judge)"
+}
