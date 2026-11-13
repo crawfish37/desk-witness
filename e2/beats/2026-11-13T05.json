@@ -1,0 +1,13 @@
+{
+ "hour": "2026-11-13T05",
+ "hb_sha256": "b76ca30564c6d1337a56824e774365bc36d2d0c4f444b3944c04ebc805b92245",
+ "beats": 540,
+ "chain_head": "f67882aeb72374c275f0a3bc91665bbf44f17bf3cd03b518c22c7ca13216e2c8",
+ "ts": 1794552582.064624,
+ "interval_start": 1794546000,
+ "on_time": true,
+ "commit": "204b046",
+ "env_digest": "285f9f96cb45b57c",
+ "behavior_digest": "6b18201afa482d63",
+ "runtime_digest": "e4326b5a5aab5717"
+}
